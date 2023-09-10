@@ -1,13 +1,14 @@
 #include <stdio.h>
-/*
- * the main function is mandatory for compile 
- * this puts function to output 
- * with return zero */
-int main(void)
+/**
+ *  main function it's main func. 
+ * 
+ *  return zero
+ */
+int main()
 
 {
-puts(" \"Programming is like building a multilingual puzzle" );
-		return(0);
+puts("\"Programming is like building a multilingual puzzle");
+		return 0;
 
 
 }
