@@ -1,10 +1,13 @@
 #include <stdio.h>
-/* main function it's main func 
- * return will return zero value
+/**
+ * main - the function for start the programm
+ *
+ * Return:  return zero value
  */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
-		return (0);
+
+return (0);
 }
 
