@@ -1,6 +1,5 @@
 #include <stdio.h>
-/*
- * main function it's main func 
+/* main function it's main func 
  * return will return zero value
  */
 int main(void)
