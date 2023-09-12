@@ -1,6 +1,7 @@
 #include<stdio.h>
 /**
- * main - the entry point
+ * print_alphabet - function to print alphabet
+ * main - entry point 
  *
  * Return: zero value always
  */
