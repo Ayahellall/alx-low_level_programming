@@ -1,7 +1,7 @@
 #include"main.h"
-/*
- * _abs - func to abslute num
- * x: value to be checked
+/**
+ * _abs - function to abslute num
+ * @x: value to be checked
  * Return: 0 always
  */
 int _abs(int x)
