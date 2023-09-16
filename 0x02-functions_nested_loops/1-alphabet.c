@@ -1,24 +1,20 @@
-#include<stdio.h>
+#include"main.h"
 /**
  * print_alphabet - function to print alphabet
- * main - entry point 
+ * main - entry point
  *
  * Return: zero value always
  */
 
-void print_alphabet(void);
+void print_alphabet(void)
 {
 char ch;
-for (ch = 'a' ; ch = 'z' ; ch++)
+for (ch = 'a' ; ch <= 'z' ; ch++)
 {
-putchar(ch);
+_putchar(ch);
 }
-}
-int main(void)
-{
-print_alphabet();
-putchar('\n');
 
-return (0);
+_putchar('\n');
+
 }
 
