@@ -1,4 +1,5 @@
 #include"main.h"
+#include<stdio.h>
 /**
  * positive_or_negative - func to show pos or neg
  * @n: value to be checked
