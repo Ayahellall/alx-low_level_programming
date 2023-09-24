@@ -1,21 +1,16 @@
 #include"main.h"
 /**
- * _puts - func to print
+ * _puts - func to print string
  * @str: to be checked
  * Return: nothing
  */
 void _puts(char *str)
 {
-int i = 0;
-while (str[i] != '\0')
+int i;
+for (i = 0; str[i] != '\0'; i++)
 {
 _putchar(str[i]);
-i++;
 }
-
-
-
-
-
+_putchar('\n');
 
 }
