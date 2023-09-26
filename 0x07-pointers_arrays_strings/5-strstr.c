@@ -16,7 +16,7 @@ while (*temp != '\0')
 {
 	if (*needle == *temp)
 {
-	return (temp);
+	return (needle);
 }
 temp++;
 }
