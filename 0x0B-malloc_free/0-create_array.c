@@ -3,8 +3,8 @@
 #include <stdlib.h>
 /**
  * create_array - func to creat array with size
- * size: size of array it will be allocate
- * c: type of data in array
+ * @size: size of array it will be allocate
+ * @c: type of data in array
  * Return: with the array
  */
 char *create_array(unsigned int size, char c)
