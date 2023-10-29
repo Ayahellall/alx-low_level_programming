@@ -2,7 +2,7 @@
 #include <stddef.h>
 /**
  * _strncpy - func  copies up to n characters from the string pointed to
- * @dest: This is the pointer to the destination array where the content is to be copied.
+ * @dest: This is the pointer to the destination array where cont copied
  * @src: This is the string to be copied.
  * @n: The number of characters to be copied from source.
  * Return: with char

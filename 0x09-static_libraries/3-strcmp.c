@@ -3,7 +3,7 @@
  * _strcmp - to compare string
  * @s1: string num1
  * @s2: string num2
- * Return: eith value 
+ * Return: eith value
  */
 
 

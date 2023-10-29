@@ -1,6 +1,6 @@
 #include"main.h"
 /**
- *  _atoi - func to make something 
+ * _atoi - func to make something
  *  @s: the string
  *  Return: eith integer
  */
