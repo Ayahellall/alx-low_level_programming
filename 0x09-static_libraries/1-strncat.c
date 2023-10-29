@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stddef.h>
 /**
  * _strncat -func used for string handling
  * @dest: the string where we want to append
@@ -8,4 +9,9 @@
  */
 char *_strncat(char *dest, char *src, int n)
 {
+(void) dest;
+(void) src;
+(void)n;
+return (NULL);
+
 }
