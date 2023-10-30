@@ -4,6 +4,7 @@
  * main - main func to print her name
  * @argc: count of argument
  * @argv: vector of argument
+ * Return: with value
  */
 int main(int argc, char *argv[])
 {
