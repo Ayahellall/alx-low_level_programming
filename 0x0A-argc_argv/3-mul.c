@@ -15,7 +15,7 @@ if (argc == 3)
 {
 	x = atoi(argv[1]);
 	z = atoi(argv[2]);
-	printf("%d \n", x * z);
+	printf("%d\n", x * z);
 }
 else
 {
