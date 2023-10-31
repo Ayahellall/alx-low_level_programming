@@ -1,4 +1,3 @@
-#include"main.h"
 #include<stdio.h>
 /**
  * main - main func to print count of arg
