@@ -15,8 +15,8 @@ int i;
 if (str == NULL)
 	return (NULL);
 for (s = 0; str[s] != '\0'; s++)
-{
-p = malloc(s +1 * sizeof(char));
+;
+p = malloc(s + 1 * sizeof(char));
 if (p == 0)
 	return (NULL);
 else
@@ -24,7 +24,7 @@ else
 	for (i = 0; i <= s; i++)
 		p[i] = str[i];
 }
-}
+
 return (p);
 
 }
