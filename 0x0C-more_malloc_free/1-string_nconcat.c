@@ -26,11 +26,12 @@ p = malloc(n1 + n + 1);
 		return (NULL);
 for (i = 0; s1[i] != '\0'; i++)
 	p[i] = s1[i];
-for (j = 0; j <= n; j++)
+for (j = 0; j < n; j++)
 {
 	p[i] = s2[j];
 	i++;
 }
+p[i] = '\0';
 return (p);
 
 
